@@ -31,6 +31,9 @@ OnCheckedChangeListener, OnItemSelectedListener, OnKeyListener {
     // ciao
     // ciao3
     // define variables for the widgets
+
+    // ciaone dev3
+
     private EditText billAmountEditText;
     private TextView percentTextView;   
     private SeekBar percentSeekBar;

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/alessio/Downloads/CC6-sol1cpnrwe/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/restaurant.jpg",
+        "source": "/Users/alessio/Downloads/CC6-sol1cpnrwe/app/src/main/res/drawable-ldpi/restaurant.jpg"
+    },
+    {
         "merged": "/Users/alessio/Downloads/CC6-sol1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/restaurant.jpg",
         "source": "/Users/alessio/Downloads/CC6-sol1/app/src/main/res/drawable-ldpi/restaurant.jpg"
     }

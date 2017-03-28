@@ -2,5 +2,9 @@
     {
         "merged": "/Users/alessio/Downloads/CC6-sol1/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
         "source": "/Users/alessio/Downloads/CC6-sol1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alessio/Downloads/CC6-sol1cpnrwe/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/alessio/Downloads/CC6-sol1cpnrwe/app/src/main/res/drawable-ldpi/ic_launcher.png"
     }
 ]
