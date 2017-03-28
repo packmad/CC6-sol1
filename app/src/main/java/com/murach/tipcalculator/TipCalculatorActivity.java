@@ -30,6 +30,9 @@ implements OnEditorActionListener, OnSeekBarChangeListener,
 OnCheckedChangeListener, OnItemSelectedListener, OnKeyListener {
     // ciao
     // ciao3
+
+    //modifica dev1
+
     // define variables for the widgets
     private EditText billAmountEditText;
     private TextView percentTextView;   
