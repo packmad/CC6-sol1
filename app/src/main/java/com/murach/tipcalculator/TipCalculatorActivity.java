@@ -28,7 +28,8 @@ import android.content.SharedPreferences.Editor;
 public class nTipCalculatorActivity extends Activity
 implements OnEditorActionListener, OnSeekBarChangeListener, 
 OnCheckedChangeListener, OnItemSelectedListener, OnKeyListener {
-
+    // ciao
+    // ciao3
     // define variables for the widgets
     private EditText billAmountEditText;
     private TextView percentTextView;   
